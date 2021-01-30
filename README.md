@@ -1,1 +1,0 @@
-# microservicos-aula01-exemplo-de-mensageria-com-sqs
