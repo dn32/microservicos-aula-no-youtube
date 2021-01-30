@@ -15,7 +15,7 @@ namespace SQS.Fornecedor
             var client = new AmazonSQSClient(RegionEndpoint.SAEast1);
             var request = new SendMessageRequest
             {
-                QueueUrl = "https://sqs.sa-east-1.amazonaws.com/355552168393/teste",
+                QueueUrl = "[adicione sua url aqui]",
                 MessageBody = "teste 123"
             };
 
