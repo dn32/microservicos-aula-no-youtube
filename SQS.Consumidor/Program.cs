@@ -15,7 +15,7 @@ namespace SQS.Consumidor
             var client = new AmazonSQSClient(RegionEndpoint.SAEast1);
             var request = new ReceiveMessageRequest
             {
-                QueueUrl = "https://sqs.sa-east-1.amazonaws.com/355552168393/teste"
+                QueueUrl = "[adicione sua url aqui]"
             };
 
             while (true)
@@ -25,7 +25,7 @@ namespace SQS.Consumidor
                 foreach (var mensagem in response.Messages)
                 {
                     Console.WriteLine(mensagem.Body);
-                    await client.DeleteMessageAsync("https://sqs.sa-east-1.amazonaws.com/355552168393/teste", mensagem.ReceiptHandle);
+                    await client.DeleteMessageAsync("[adicione sua url aqui]", mensagem.ReceiptHandle);
                 }
             }
         }
