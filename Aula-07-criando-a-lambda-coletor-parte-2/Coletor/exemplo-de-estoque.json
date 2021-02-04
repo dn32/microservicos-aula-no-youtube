@@ -1,0 +1,37 @@
+﻿[
+  {
+    "Id": "1",
+    "Nome": "Kindle Oasis 32GB - Agora com temperatura de luz ajustável - Cor Grafite",
+    "Quantidade": 100,
+    "Valor": 1234.05,
+    "Variante": "32GB"
+  },
+  {
+    "Id": "2",
+    "Nome": "Kindle Oasis 8GB - Agora com temperatura de luz ajustável - Cor Grafite",
+    "Quantidade": 100,
+    "Valor": 1091.55,
+    "Variante": "8GB"
+  },
+  {
+    "Id": "3",
+    "Nome": "Kindle Paperwhite 8 GB - Agora à prova d´água",
+    "Quantidade": 100,
+    "Valor": 474.05,
+    "Variante": "8GB"
+  },
+  {
+    "Id": "4",
+    "Nome": "Kindle Paperwhite 32 GB - Agora à prova d´água",
+    "Quantidade": 100,
+    "Valor": 616.55,
+    "Variante": "32GB"
+  },
+  {
+    "Id": "5",
+    "Nome": "Kindle 10a. geração com iluminação embutida – Cor Preta",
+    "Quantidade": 100,
+    "Valor": 331.55,
+    "Variante": "8GB"
+  }
+]

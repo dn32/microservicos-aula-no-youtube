@@ -2,6 +2,7 @@
 
 Nesse conjunto de vídeos implementaremos Micro-Serviços Serverless, na prática com .Net Core, AWS Lambda, SQS e SNS.
 
+Cada diretório contém o código feito durante o video, o código é o resultado final do video.
 
 Playlist completa: https://www.youtube.com/watch?v=IyvO7wQpcbw&list=PLbDQa2miNh3Bebv2XLwVjxvOK-kMfVUK9
 
