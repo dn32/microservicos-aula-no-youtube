@@ -1,0 +1,24 @@
+﻿{
+  "ValorTotal": 0,
+  "Cliente": {
+    "Id": "1",
+    "Nome": "Maria Cruz de Oliveira",
+    "Cpf": "43023402078",
+    "Email": "maria@dn32.com.br"
+  },
+  "Pagamento": {
+    "NumeroDoCartao": "5228450341991943",
+    "Validade": "15/07/2021",
+    "CVV": "232"
+  },
+  "Produtos": [
+    {
+      "Id": "1",
+      "Quantidade": 4
+    },
+    {
+      "Id": "2",
+      "Quantidade": 2
+    }
+  ]
+}

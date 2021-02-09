@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles>
+    <AWSProjectType>Lambda</AWSProjectType>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+    <RootNamespace>Coletor</RootNamespace>
+    <AssemblyName>Coletor</AssemblyName>
+  </PropertyGroup>
+ 
+  <ItemGroup>
+    <ProjectReference Include="..\Compartilhado\00_Compartilhado.csproj" />
+  </ItemGroup>
+</Project>
